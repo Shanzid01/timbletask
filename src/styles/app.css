@@ -1,0 +1,45 @@
+.logo-text{
+    font-size: 18px !important;
+    font-weight: 700;
+    margin-left: 3%;
+    letter-spacing: 0.5px;
+    font-family: 'Montserrat', sans-serif;
+}
+.collapsible{
+    border:0px !important;
+    margin: 0px;
+}
+.collapsible-header{
+    padding: 0px !important;
+    border: 0px !important;
+    display: block !important;
+}
+.collapsible-body{
+    border: 0px !important;
+    padding: 10px 5px 5px 0px;
+    font-size: 13px;
+    line-height: 25px;
+}
+body{
+    background: #FAFAFA;
+}
+.all-component-container{
+    margin-top: 25px;
+}
+.modal.bottom-sheet{
+    max-height: 90%;
+}
+.material-icons.left{
+    margin-right: 5px;
+}
+.dropdown-content{
+    width: 200px !important;
+    left: auto !important;
+    right: 10px !important;
+}
+.dropdown-content > .disabled{
+    cursor: default !important;
+    background: white !important;
+    padding: 10px !important;
+    font-size: 12px !important;
+}
