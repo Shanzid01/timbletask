@@ -3,4 +3,4 @@
 A fully responsive Web Application for creating and sharing tasks.<br>
 The program is built on ReactJS and uses Google Firebase for authentication and storing data.<br/>
 <br><br>
-<img width="50" src="capture.jpg"/>
+<img width="700" src="capture.jpg"/>
